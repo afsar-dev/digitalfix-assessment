@@ -1,7 +1,8 @@
 import { NextFunction, Request, Response } from "express";
 import jwt from "jsonwebtoken";
 
-const SECRET_KEY = process.env.JWT_SECRET || "asdfjkl";
+const SECRET_KEY =
+  process.env.JWT_SECRET || "a-string-secret-at-least-256-bits-long";
 
 export const checkAuth = (req: Request, res: Response, next: NextFunction) => {
   const accessToken = req.headers.authorization;
