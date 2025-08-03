@@ -4,7 +4,7 @@ This is the **Backend** part of the DigitalFix technical assessment.
 It is built using **Express.js**, **Mongoose**, and **JWT (jsonwebtoken)** for route protection.  
 The backend includes a protected `/dashboard` route and a Mongoose schema with validations and static methods.
 
-**`Api`:** [Link](https://backend-pi-smoky-10.vercel.app/)  
+**`Live`:** [Link](https://backend-pi-smoky-10.vercel.app/)  
 
 ---
 
