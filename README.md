@@ -1,17 +1,15 @@
-# DigitalFix MERN Stack Assessment
+## DigitalFix MERN Stack Assessment
 
-## 📂 Project Structure
+This repository contains solutions for the DigitalFix technical assessment. It includes:
 
-- `frontend/` → Frontend (Next.js + TypeScript + Redux Toolkit + Tailwind)
-- `server/` → Backend (Express + JWT + Mongoose)
+**`Live`:** [Link](https://frontend-indol-ten-nyll5c3ye3.vercel.app)  
+**`Api`:** [Link](https://backend-pi-smoky-10.vercel.app/)  
 
+● **Frontend (Next.js + TypeScript + Redux Toolkit)**  
+● **Backend (Express.js + JWT route protection + Mongoose schema)**  
+
+### Documentation  
 ---
 
-## 🚀 Setup Instructions
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/digitalfix-assessment.git
-cd digitalfix-assessment
-```
+- [Frontend Documentation](./frontend/README.md)  
+- [Backend Documentation](./backend/README.md)  
